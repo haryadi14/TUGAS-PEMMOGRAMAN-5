@@ -1,0 +1,7 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\NumTb\bin\Debug\NumTb.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\NumTb\bin\Debug\NumTb.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\NumTb\obj\Debug\CharTb.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\NumTb\obj\Debug\NumTb.UserControl1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\NumTb\obj\Debug\CharTb.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\NumTb\obj\Debug\NumTb.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\NumTb\obj\Debug\NumTb.pdb

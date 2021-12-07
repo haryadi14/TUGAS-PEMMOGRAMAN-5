@@ -1,0 +1,7 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026\bin\Debug\P5_1_1204026.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026\bin\Debug\P5_1_1204026.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026\obj\Debug\P5_1_1204026.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026\obj\Debug\P5_1_1204026.NumericTextbox.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026\obj\Debug\P5_1_1204026.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026\obj\Debug\P5_1_1204026.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026\obj\Debug\P5_1_1204026.pdb

@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\NumTb\bin\Debug\NumTb.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\NumTb\bin\Debug\NumTb.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\NumTb\obj\Debug\NumTb.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\NumTb\obj\Debug\NumTb.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\NumTb\obj\Debug\NumTb.pdb

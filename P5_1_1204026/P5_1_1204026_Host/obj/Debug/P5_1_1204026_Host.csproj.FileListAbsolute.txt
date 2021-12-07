@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026_Host\bin\Debug\P5_1_1204026_Host.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026_Host\bin\Debug\P5_1_1204026_Host.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026_Host\bin\Debug\P5_1_1204026_Host.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026_Host\obj\Debug\P5_1_1204026_Host.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026_Host\obj\Debug\P5_1_1204026_Host.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026_Host\obj\Debug\P5_1_1204026_Host.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026_Host\obj\Debug\P5_1_1204026_Host.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026_Host\obj\Debug\P5_1_1204026_Host.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026_Host\obj\Debug\P5_1_1204026_Host.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026_Host\bin\Debug\P5_1_1204026.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\P5_1_1204026\P5_1_1204026_Host\bin\Debug\P5_1_1204026.pdb
